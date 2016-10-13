@@ -112,7 +112,7 @@ th, td {
 }
 
 iframe {
-	float: right;
+	width: 400px;
 	}
 
 subscribe-form{
@@ -257,4 +257,9 @@ div.img img {
     content: "";
     display: table;
     clear: both;
+}
+
+div{
+  text-align:center;
+  width:100%;
 }
