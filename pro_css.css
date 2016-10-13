@@ -44,7 +44,7 @@ ul {
   align-items: center;
   background-image: url("img/ishome.jpg");
   background-size: cover;
-  height: max;
+  height: 1000px;
 }
 
 a:link {
